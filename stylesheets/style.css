@@ -889,7 +889,7 @@ img {
 .parallax-background.fixed {
 	background-attachment: fixed !important;
 }
-.parallax-banner-1 { background:url('../images/parallax-banner-1.png'); background-position: center center; }
+.parallax-banner-1 { background:url('../images/parallax-banner-1.jpg'); background-position: center center; }
 .parallax-banner-2 { background:url('../images/parallax-banner-2.jpg'); background-position: center center; }
 .parallax-banner-3 { background:url('../images/parallax-banner-3.jpg'); }
 .parallax-banner-4 { background:url('../images/parallax-banner-4.jpg'); background-position:center bottom !important; }
@@ -898,7 +898,7 @@ img {
 .parallax-banner-7 { background:url('../images/404.jpg'); }
 
 
-.parallax-overlay-1 { background-image: url('../images/overlay-pattern.png'); opacity:0; }
+.parallax-overlay-1 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-2 { background-color: black; opacity: 0.8;}
 .parallax-overlay-3 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-4 { background-image: url('../images/overlay-pattern.png'); }
